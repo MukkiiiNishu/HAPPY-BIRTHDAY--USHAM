@@ -525,7 +525,7 @@ body {
 }
 .content__letter .left #heart__letter{
     opacity: 0;
-    width: 80%;
+    width: 50%;
 }
 #heart__letter.animationOp{
     animation: opacityHeart 1s 1s forwards;
